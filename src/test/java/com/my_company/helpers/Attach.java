@@ -1,4 +1,4 @@
-package com.my_company.tests.helpers;
+package com.my_company.helpers;
 
 import com.codeborne.selenide.Selenide;
 import io.qameta.allure.Attachment;
